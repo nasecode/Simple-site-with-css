@@ -1,0 +1,51 @@
+body {
+  color: #FEF6F7;
+  font-family: Didot, serif;
+}
+
+a:link {
+  color: #FEF6F7;
+}
+
+a:visited {
+  color: #C6C6C6;
+}
+
+a:hover {
+  color: #FB8E8F;
+}
+
+.logo {
+  width: 150px;
+  height: 100px;
+  border: 1px solid black;
+  float: left;
+}
+
+.navigation {
+  text-align: center;
+  font-size: 24px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 48px;
+  color: #FEF6F7;
+}
+
+.subtitle {
+  text-align: center;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 24px;
+  color: #FEF6F7;
+}
+
+.footer {
+  text-align: center;
+  font-size: 24px;
+}
+
+.follow-us {
+  color: #FB8E8F;
+}
