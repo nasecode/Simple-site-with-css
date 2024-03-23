@@ -27,6 +27,21 @@ h3 {
   font-family: 'Brush Script MT', cursive;
   font-size: 24px;
 }
+table, td {
+  border: 1px solid;
+  max-width:400px;
+  max-height:600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+table img {
+  max-width:400px;
+  max-height:600px
+}
+.image1 img {
+  max-height:600px;
+  max-width:800px;
+}
 .footer {
   text-align: center;
 }
